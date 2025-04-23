@@ -4,7 +4,7 @@
 <h1 align="center">Dio Adeliya Putra</h1>
 <h3 align="center">NEVERMIND</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhmtrizky&label=Profile%20views&color=0e75b6&style=flat" alt="rhmtrizky" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoptrv&label=Profile%20views&color=0e75b6&style=flat" alt="yoptrv" /> </p>
 
 - 🌱 I’m currently learning *All about programming*
 
