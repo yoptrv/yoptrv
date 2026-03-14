@@ -43,7 +43,7 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yo](https://www.linkedin.com/in/dio-adeliya-putra-457188249" target="_blank">
+  <a href="https://www.linkedin.com/in/dio-adeliya-putra-457188249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:dioaputra01@gmail.com" target="_blank">
