@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎯 Passionate about crafting clean, responsive, and user-focused interfaces.
 - 🧠 Currently exploring deeper into **Next.js performance**, **UI animations**, and **full-stack workflows**.
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,python,mysql,git,github,vscode&theme=dark" alt="tech stack" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yoptrv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dio-adeliya-putra-457188249/" target="_blank">
@@ -56,6 +56,6 @@
 
 ---
 
-## ✨ Motto
+## Motto
 
 > **Code smart. Learn fast. Build impact.**
