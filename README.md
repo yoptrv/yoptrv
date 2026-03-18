@@ -16,7 +16,7 @@
 ## About Me
 
 - 🎯 Passionate about crafting clean, responsive, and user-focused interfaces.
-- 🧠 Currently exploring deeper into **Next.js performance**, **UI animations**, and **full-stack workflows**.
+- 🧠 Currently exploring deeper into **Software Engineering**, **Machine Learning**, and **Data Science**.
 - 🤝 Open to collaboration on web projects, creative tech ideas, and frontend architecture.
 - 📫 Reach me at: **dioaputra01@gmail.com**
 
